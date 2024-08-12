@@ -2,8 +2,9 @@
 
  **Authors**
 
-- [ShirelSch](https://github.com/ShirelSch)
-- [Talya88](https://github.com/Talya88)
+- Talya Herrmann [Talya88](https://github.com/Talya88)
+- Shirel Schreiber [ShirelSch](https://github.com/ShirelSch)
+
 
 **Project Overview**
 
