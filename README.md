@@ -1,5 +1,10 @@
 # Biological Sequence Prediction Using Transformers
 
+## Authors
+
+- [ShirelSch](https://github.com/ShirelSch)
+- [Talya88](https://github.com/Talya88)
+
 **Project Overview**
 
 This project explores the application of transformer models in the field of biology. We utilized transformers to analyze various biological datasets and predict outcomes based on molecular and protein sequences. The transformer models used in this project include ChemBERTa and ProtT5 from Hugging Face, as well as ProteinBERT developed by researchers at the Hebrew University.
