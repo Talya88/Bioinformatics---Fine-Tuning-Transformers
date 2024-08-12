@@ -76,5 +76,3 @@ The transformer models demonstrated high accuracy and strong performance across 
 ## Conclusion
 
 This project underscores the versatility and power of transformer models in biological sequence analysis. By leveraging pre-trained models like ChemBERTa, ProtT5, and ProteinBERT, we achieved notable results in toxicity prediction, solubility prediction, patient outcome prediction, signal peptide classification, and protein family classification.
-
-The project is being conducted by Shirel Schreiber and Talya Herrmann.
