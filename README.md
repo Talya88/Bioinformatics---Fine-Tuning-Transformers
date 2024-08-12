@@ -1,6 +1,6 @@
 # Biological Sequence Prediction Using Transformers
 
-## Authors
+ **Authors**
 
 - [ShirelSch](https://github.com/ShirelSch)
 - [Talya88](https://github.com/Talya88)
